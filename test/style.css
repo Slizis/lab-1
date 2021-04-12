@@ -1,0 +1,198 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+header
+{
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.nav_header{
+    width: 945px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.main_info
+{
+    margin-top: 10px;
+    width: 945px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+b
+{
+    font-size: 28;
+}
+.about_me
+{
+    background-color: #F6F6F6;
+    width: 100%;
+    height: 500px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.title_about_me
+{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text_about_me1
+{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.text_about_me2
+{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.text_about_me3
+{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.skills_box
+{
+    margin-top: 50px;
+    width: 945px;
+    height: 500px;
+}
+.skills_title1
+{
+    margin-top: 41px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bolder;
+}
+.skills_title2
+{
+    margin-top: 69px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;
+}
+.devochki
+{
+    width: 945px;
+    margin-top: 83px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.Portfolio
+{
+    background-color: #F6F6F6;
+    width: 100%;
+    height: 1750px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.banners
+{
+    font-size: 34px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bolder;
+    padding-bottom: 45px;
+}
+.banner1
+{
+    text-decoration-line: underline;
+    margin-top: 45px;
+    font-size: 18px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 45px;
+}
+.banner2
+{
+    text-decoration-line: underline;
+    margin-top: 45px;
+    font-size: 18px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 45px;
+}
+.banner3
+{
+    text-decoration-line: underline;
+    margin-top: 45px;
+    font-size: 18px;
+    margin-top: 20px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 45px;
+}
+.text_contacts
+{
+    font-size: 34px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bolder;
+}
+.textlife
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 45px;
+}
+.button
+{
+    background-color: #000000;
+    color:white;
+    width: 190px;
+    height: 42px;
+    margin-top: 40px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+.icons
+{
+    margin-top: 40px;
+}
+footer
+{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
